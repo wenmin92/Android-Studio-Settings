@@ -1,10 +1,12 @@
 <templateSet group="AndroidXML">
-  <template name="ccw" value="&lt;!-- created by wenmin92 --&gt;" description="&lt;!-- created by wenmin92 --&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="ccw" value="&lt;!-- $content$ created by wenmin92 --&gt;" description="&lt;!-- created by wenmin92 --&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="ccc" value="&lt;!-- created by changzhu.zhao --&gt;" description="&lt;!-- created by changzhu.zhao --&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="ccc" value="&lt;!-- $content$ created by changzhu.zhao --&gt;" description="&lt;!-- created by changzhu.zhao --&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="XML" value="true" />
     </context>
