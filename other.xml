@@ -1,0 +1,14 @@
+<application>
+  <component name="EduSettings">
+    <option name="lastTimeChecked" value="1537925243845" />
+    <option name="LAST_TIME_CHECKED" value="1537925243845" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="TYPE_COOK_COOK_OBJECTS" value="true" />
+    <option name="TYPE_COOK_PRODUCE_WILDCARDS" value="true" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+</application>
