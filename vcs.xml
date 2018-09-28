@@ -74,6 +74,10 @@
           <option name="url" value="https://github.com/googlesamples/android-databinding.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/thyrlian/AwesomeValidation.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\AndroidStudioProjects" />
