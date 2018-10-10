@@ -82,6 +82,10 @@
           <option name="url" value="https://github.com/zyyoona7/EasyPopup.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/razerdp/BasePopup.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\AndroidStudioProjects" />
