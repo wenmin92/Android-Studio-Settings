@@ -2,7 +2,6 @@
   <template name="Q" value="&quot;$SELECTION$&quot;" description="Surround with &quot;&quot;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_COMMENT" value="true" />
-      <option name="JAVA_DECLARATION" value="true" />
       <option name="JAVA_EXPRESSION" value="true" />
       <option name="JAVA_STATEMENT" value="true" />
       <option name="JAVA_STRING" value="true" />
@@ -10,11 +9,8 @@
   </template>
   <template name="T" value="try {&#10;    $SELECTION$&#10;} catch (Exception ignored) { }" description="Surround with try...catch (ignore)" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_COMMENT" value="true" />
-      <option name="JAVA_DECLARATION" value="true" />
       <option name="JAVA_EXPRESSION" value="true" />
       <option name="JAVA_STATEMENT" value="true" />
-      <option name="JAVA_STRING" value="true" />
     </context>
   </template>
 </templateSet>
