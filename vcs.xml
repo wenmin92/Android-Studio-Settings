@@ -94,6 +94,10 @@
           <option name="url" value="https://github.com/googlesamples/android-BasicTransition.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/chuyun923/CustomAttrExmp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\AndroidStudioProjects" />
