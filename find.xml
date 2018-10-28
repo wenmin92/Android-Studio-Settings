@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="not R" />
-    <option name="defaultScopeName" value="not R" />
+    <option name="customScope" value="Current File" />
+    <option name="defaultScopeName" value="Current File" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="not R" />
+    <option name="SEARCH_SCOPE" value="Current File" />
     <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
