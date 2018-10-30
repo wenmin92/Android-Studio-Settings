@@ -4,7 +4,8 @@
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="ccc" value="&lt;!-- created by changzhu.zhao --&gt;" description="&lt;!-- created by changzhu.zhao --&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="ccc" value="&lt;!-- $desc$ created by changzhu.zhao --&gt;" description="&lt;!-- created by changzhu.zhao --&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="XML" value="true" />
     </context>
