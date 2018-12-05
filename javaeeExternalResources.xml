@@ -2,5 +2,6 @@
   <component name="ExternalResourceManagerImpl">
     <resource url="http://www.puppycrawl.com/dtds/configuration_1_3.dtd" location="$USER_HOME$/.AndroidStudio3.1/system/extResources/1524e8b2_configuration_1_3.dtd" />
     <resource url="https://checkstyle.org/dtds/configuration_1_3.dtd" location="$USER_HOME$/.AndroidStudio3.1/system/extResources/385f0dd3_configuration_1_3.dtd" />
+    <resource url="https://pmd.sourceforge.io/ruleset_2_0_0.xsd" location="$USER_HOME$/.AndroidStudio3.2/system/extResources/eeba745_ruleset_2_0_0.xsd" />
   </component>
 </application>
