@@ -1,0 +1,11 @@
+<templateSet group="wenmin92">
+  <template name="SC" value="//region $desc$&#10;$SELECTION$&#10;//endregion" description="Surround with region...endregion" toReformat="true" toShortenFQNames="true">
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
