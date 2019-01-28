@@ -1,15 +1,4 @@
 <templateSet group="AndroidXML">
-  <template name="ccw" value="&lt;!-- created by wenmin92 --&gt;" description="&lt;!-- created by wenmin92 --&gt;" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="XML" value="true" />
-    </context>
-  </template>
-  <template name="ccc" value="&lt;!-- $desc$ created by changzhu.zhao --&gt;" description="&lt;!-- created by changzhu.zhao --&gt;" toReformat="false" toShortenFQNames="true">
-    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="XML" value="true" />
-    </context>
-  </template>
   <template name="lh0" value="android:layout_height=&quot;0dp&quot;" description="android:layout_height=&quot;0dp&quot;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
