@@ -31,6 +31,7 @@
     <variable name="blockName" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
