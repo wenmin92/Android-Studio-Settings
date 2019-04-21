@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Current File" />
-    <option name="defaultScopeName" value="Current File" />
-    <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="customScope" value="Module 'MPChartLib'" />
+    <option name="defaultScopeName" value="Module 'MPChartLib'" />
+    <option name="SEARCH_SCOPE" value="Module 'MPChartLib'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
