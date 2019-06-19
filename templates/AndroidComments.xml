@@ -1,13 +1,16 @@
 <templateSet group="AndroidComments">
-  <template name="header" value="/**&#10; * $DESC$&#10; * @author zhaochangzhu $date$&#10; */" description="header for this class" toReformat="false" toShortenFQNames="true">
+  <template name="header" value="/**&#10; * $DESC$&#10; * &#10; * @author Created by zhaochangzhu on $date$.&#10; */" description="header for this class" toReformat="false" toShortenFQNames="true">
     <variable name="DESC" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="date" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="COMPLETION" value="false" />
       <option name="JAVA_CODE" value="true" />
       <option name="JAVA_EXPRESSION" value="false" />
       <option name="JAVA_STATEMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
   </template>
   <template name="noop" value="/* no-op */" description="indicate that a method does not have any operations" toReformat="true" toShortenFQNames="true">
