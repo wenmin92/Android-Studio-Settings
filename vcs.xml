@@ -182,6 +182,10 @@
           <option name="url" value="https://github.com/HeartlandSoftware/AndroidHeatMap.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ChristianFF/HeatMapForAndroid.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\AndroidStudioProjects" />
