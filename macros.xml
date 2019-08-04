@@ -1,0 +1,12 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="rename-filed">
+      <action id="GotoNextError" />
+      <action id="EditorSelectWord" />
+      <action id="IntroduceField" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorChooseLookupItem" />
+    </macro>
+  </component>
+</application>
