@@ -1,0 +1,5 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="C:\Users\wenmin92\scoop\apps\git\current\bin\sh.exe" />
+  </component>
+</application>
