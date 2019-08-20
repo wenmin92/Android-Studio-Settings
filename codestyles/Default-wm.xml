@@ -166,7 +166,6 @@
     <option name="RIGHT_MARGIN" value="200" />
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
-    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="WRAP_FIRST_METHOD_IN_CALL_CHAIN" value="true" />
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
