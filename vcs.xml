@@ -190,6 +190,10 @@
           <option name="url" value="https://github.com/wenmin92/WeiYi.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/wenmin92/AndroidLearn.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\src\StudioProjects" />
