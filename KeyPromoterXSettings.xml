@@ -1,5 +1,7 @@
 <application>
   <component name="KeyPromoterXSettings">
-    <option name="installedVersion" value="2019.2.4" />
+    <option name="disabledInDistractionFreeMode" value="true" />
+    <option name="disabledInPresentationMode" value="true" />
+    <option name="installedVersion" value="2019.3" />
   </component>
 </application>
