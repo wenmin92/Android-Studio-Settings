@@ -1,6 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="1577268943000" type="Image" />
+      <mapping pattern="1577268942876" type="Image" />
+      <mapping pattern="1577268942981" type="Image" />
       <mapping ext="kotlin" type="Kotlin" />
       <mapping pattern="scan130851473txt" type="PLAIN_TEXT" />
     </extensionMap>
