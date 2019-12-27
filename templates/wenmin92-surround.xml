@@ -1,0 +1,17 @@
+<templateSet group="wenmin92-surround">
+  <template name="QST" value="&quot;${$SELECTION$}&quot;" description="Surround with &quot;${}&quot;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_COMMENT" value="true" />
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="ST" value="${$SELECTION$}" description="Surround with ${}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_CLASS" value="false" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_TOPLEVEL" value="false" />
+    </context>
+  </template>
+</templateSet>
