@@ -28,4 +28,10 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="SC" value="&lt;!-- region $desc$ --&gt;&#10;$SELECTION$&#10;&lt;!-- endregion --&gt;" description="Surround with region...endregion" toReformat="true" toShortenFQNames="true">
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
 </templateSet>
