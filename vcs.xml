@@ -226,6 +226,10 @@
           <option name="url" value="https://github.com/steinwurf/adb-join-wifi.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/laddie132/adb-join-wifi.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\src\StudioProjects" />
